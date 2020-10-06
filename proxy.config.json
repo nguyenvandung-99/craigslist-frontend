@@ -1,0 +1,8 @@
+{
+  "/api/*": {
+    "target": "https://buy-and-sell-9f728.ey.r.appspot.com",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
